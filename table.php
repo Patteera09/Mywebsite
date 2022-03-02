@@ -13,13 +13,13 @@
       <tr>
         <td>1</td>                  
         <td>Goki Maeda</td>
-        <td><img src="https://asianwiki.com/File:Goki_Maeda-p02.jpg" width="45px"></td>
+        <td><img src="https://www.blike.net/sites/default/files/frontimage/j09Maeda_Goki.jpg" width="45px"></td>
         <td><a href="https://instagram.com/maeda.gouki?utm_medium=copy_link">Instragram</a></td>
       </tr>
       <tr>
         <td>2</td>
         <td>Park Jimin</td>
-        <td><img src="https://en.m.wikipedia.org/wiki/File:Jimin_x_Samsung_Galaxy_August_2021.png" width="45px"></td>
+        <td><img src="https://pm1.narvii.com/7303/c24a05dbc5136927216f8ab9c4730a13c41bb069r1-480-800v2_hq.jpg" width="45px"></td>
         <td><a href="https://instagram.com/j.m?utm_medium=copy_link">Instragram</a></td>
       </tr>
       <tr>
